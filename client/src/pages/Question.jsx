@@ -164,8 +164,6 @@ export default function Question() {
         tagErr: '',
       });
       saveData(newLocalData);
-
-      console.log(getData('stackData'));
     }
   };
 
